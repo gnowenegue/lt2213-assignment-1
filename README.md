@@ -1,0 +1,2 @@
+- Run `source .venv/bin/activate` to activate the virtual environment.
+- Install `Prover9` library separately.
