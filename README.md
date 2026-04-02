@@ -1,2 +1,4 @@
 - Run `source .venv/bin/activate` to activate the virtual environment.
-- Install `Prover9` library separately.
+- Run `pip install pre-commit` and `pre-commit install` to install the pre-commit hook.
+    - pre-commit hook will run `nbstripout` which will remove the outputs and noise from the jupyter notebook.
+
